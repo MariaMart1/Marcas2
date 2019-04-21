@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0">
+	
+	<channel>
+		<title>Canal RSS de MJ</title>
+		<link>https://mariamart1.github.io/Marcas2/</link>
+		<description>Noticias de actualidad y tiempo</description>
+		
+
+		<item>
+			<title>Noticias de España</title>
+			<link>https://elpais.com/</link>
+			<description>Noticias de actualidad españolas</description>
+		</item>
+
+		<item>
+			<title>Noticias de Europa</title>
+			<link>https://www.bbc.com/news/world/europe</link>
+			<description>Noticias de actualidad europea</description>
+		</item>
+
+		<item>
+			<title>Noticias internacionales</title>
+			<link>https://www.bbc.com/news/world</link>
+			<description>Noticias de actualidad internacional</description>
+		</item>
+
+		<item>
+			<title>Noticias de Granada</title>
+			<link>https://granadaimedia.com/</link>
+			<description>Noticias de actualidad local de Granada</description>
+		</item>
+		
+		<item>
+			<title>Tiempo en Granada</title>
+			<link>https://www.eltiempo.es/granada.html</link>
+			<description>Tiempo en Granada</description>
+		</item>
+	
+	</channel>
+
+</rss>
