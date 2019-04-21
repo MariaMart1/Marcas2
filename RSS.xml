@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-
+<!--Especificaciones RSS-->
 <rss version="2.0">
 	
+	<!--Iniciamos el canal-->
 	<channel>
+		<!--Añadimos los elementos obligatorios-->
 		<title>Canal RSS de MJ</title>
 		<link>https://mariamart1.github.io/Marcas2/</link>
 		<description>Noticias de actualidad y tiempo</description>
 		
-
+		<!--Añadimos los item, uno para cada tipo de noticias-->
 		<item>
-			<title>Noticias de Espa�a</title>
+			<title>Noticias de España</title>
 			<link>https://elpais.com/</link>
-			<description>Noticias de actualidad espa�olas</description>
+			<description>Noticias de actualidad españolas</description>
 		</item>
 
 		<item>
